@@ -1,0 +1,42 @@
+body{
+    background-color: burlywood;
+}
+
+
+.formulario{
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 5px;
+    width: 350px;
+    background-color: #1F618D;
+    padding: 30px;
+}
+.ingreso{
+    padding: 4px;
+    margin:auto;
+    width: 320px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.boton{
+    margin-top: 10px;
+    margin-left: 35%;
+    border-radius: 5px;
+    padding: 4px;
+}
+h1{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+h1 a{
+    text-decoration: none;
+    color: white;
+
+}
+h1 a:hover{
+color: black;
+}
+label{
+    color: white;
+}
